@@ -1,1 +1,2 @@
-# Padr-es-de-Projetos-na-Pr-tica-com-Java
+# Padroes-de-Projetos-na-Pratica-com-Java
+* Em andamento
